@@ -2,8 +2,6 @@
 
 Un proyecto de optimización que ataca un problema clásico: cómo salir de los óptimos locales sin perder eficiencia. La Búsqueda Tabú no se conforma con la primera solución aceptable; explora, recuerda y corrige el rumbo para acercarse a una solución global mejor.
 
-Repositorio listo para publicar en GitHub: código modular y archivos de exclusión para mantener limpio el historial del proyecto.
-
 ## Resumen
 
 Este repositorio implementa una versión clara y funcional de Búsqueda Tabú sobre una función objetivo continua. El resultado es un ejemplo práctico de cómo una estrategia de memoria puede mejorar la exploración en problemas de optimización.
